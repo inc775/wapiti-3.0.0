@@ -66,6 +66,10 @@ Usage
  ██║███╗██║██╔══██║██╔═══╝ ██║   ██║   ██║ ╚═══██╗
  ╚███╔███╔╝██║  ██║██║     ██║   ██║   ██║██████╔╝
   ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝╚═════╝  
+
+
+
+
 Wapiti-3.0.0 (wapiti.sourceforge.net)
 usage: wapiti [-h] [-u URL] [--scope {page,folder,domain,url}]
               [-m MODULES_LIST] [--list-modules] [-l LEVEL] [-p PROXY_URL]
